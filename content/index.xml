@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Hugo Hero Theme</title>
+    <link>http://localhost:1313/content/</link>
+    <description>Recent content in Home on Hugo Hero Theme</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Dec 2018 09:29:16 +1000</lastBuildDate>
+    <atom:link href="http://localhost:1313/content/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/content/pages/about/</link>
+      <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
+      <guid>http://localhost:1313/content/pages/about/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>History</title>
+      <link>http://localhost:1313/content/pages/history/</link>
+      <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
+      <guid>http://localhost:1313/content/pages/history/</guid>
+      <description>About Heading </description>
+    </item>
+  </channel>
+</rss>
