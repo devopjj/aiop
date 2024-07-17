@@ -13003,4 +13003,7 @@ html {
   background-color: #eee;
   margin: 0 0 1em; }
 
+.main-menu > ul > li {
+  font-size: 1.25rem; }
+
 /*# sourceMappingURL=style.css.map */
