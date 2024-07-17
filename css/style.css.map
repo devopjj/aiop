@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.css",
-	"sourceRoot": "/data/home/gitrepo/md2blog/src/twbest",
+	"sourceRoot": "/data/home/gitrepo/md2blog/src/aiop",
 	"sources": [
 		"/data/home/gitrepo/md2blog/hugo/themes/hugo-hero-theme/assets/scss/style.scss",
 		"../../hugo/themes/hugo-hero-theme/assets/scss/_bootstrap-variables.scss",
