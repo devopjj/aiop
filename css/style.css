@@ -13004,6 +13004,9 @@ html {
   margin: 0 0 1em; }
 
 .main-menu > ul > li {
-  font-size: 1.25rem; }
+  font-size: 1.147rem; }
+
+.hero-image .hero-text p {
+  line-height: 2.45rem; }
 
 /*# sourceMappingURL=style.css.map */

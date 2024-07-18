@@ -1,9 +1,11 @@
 // 先引入主题的默认变量
 .main-menu > ul > li{
-font-size:1.25rem;
-font-color:red;
-color:red;
+  color: #990000;
 }
+.main-menu > ul > li > a {
+  color: #990000;
+}
+
 .hero-image .hero-text p {
  line-height: 2.4rem;
 }
