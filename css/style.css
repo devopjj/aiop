@@ -13006,6 +13006,10 @@ html {
 .main-menu > ul > li {
   font-size: 1.147rem; }
 
+@media (max-width: 767px) {
+  .pconly-bg {
+    background-image: none !important; } }
+
 .hero-image .hero-text p {
   line-height: 2.45rem; }
 
