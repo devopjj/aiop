@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on AI OP-專業的運維服務</title>
-    <link>/pages/</link>
+    <link>https://aiop.one/pages/</link>
     <description>Recent content in Pages on AI OP-專業的運維服務</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Dec 2018 09:29:16 +1000</lastBuildDate>
-    <atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://aiop.one/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>/about.0720/</link>
+      <link>https://aiop.one/about.0720/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
-      <guid>/about.0720/</guid>
+      <guid>https://aiop.one/about.0720/</guid>
       <description></description>
     </item>
     <item>
       <title>Work</title>
-      <link>/about/</link>
+      <link>https://aiop.one/about/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
-      <guid>/about/</guid>
-      <description> 我們的承諾 專業運維服務：AIOP 團隊擁有深厚的技術底蘊，為您提供專業的運維解決方案，確保系統運行如時鐘般精確。&#xA;全球部署經驗：我們在全球范圍內成功部署大型游戲，理解並滿足不同地區的特定需求，為您的產品在全球市場打下堅實基礎。&#xA;持續優化與更新：我們致力於持續優化系統運行效率，並確保用戶端始終享有友好、流暢的體驗。&#xA;無論是面對挑戰還是機遇，AIOP 將與您攜手前行，確保您的技術運營無憂無慮，穩定如一。&#xA;誠信與效率 我們致力於為中小企業提供一流的運維解決方案，確保系統運行穩定、高效。憑藉豐富的經驗和卓越的技術，我們幫助客戶節省成本、提升資安、優化應用系統更新迭代。 我們堅信，通過誠信經營和卓越表現，我們能夠成為您最可信賴的運維夥伴，共同推動業務的成功與發展。&#xA;免費諮詢 我們為所有的新合作對象及新客戶提供免費諮詢，歡迎您聯繫我們為您服務。&#xA;» 聯繫我們 節省基礎設施成本，節省上雲端的成本 在現代企業運營中，基礎設施成本和雲端成本常常佔據了預算的很大部分。 AIOP 通過運用先進的雲端技術和最佳實踐，協助台灣公司精確評估和優化其雲端資源配置，從而顯著降低成本。 我們的專業團隊能夠根據企業需求制定高效的雲端遷移策略，避免過度配置和資源浪費。 通過合理的資源分配和自動化管理，我們幫助企業在保持高性能的同時，實現運營成本的最大節約。&#xA;加固資訊安全 隨著網絡威脅的日益增多，企業的資安保護成為首要任務。AIOP 提供全面的資安解決方案，幫助公司提高其信息系統的安全性。 我們通過定期的安全審查和滲透測試，及時發現並修補潛在漏洞。 此外，我們運用最新的安全技術和策略，如零信任架構和多因素認證，來保護企業的數據和應用系統。 我們還提供持續的安全監控和應急響應服務，確保企業能夠及時應對任何安全威脅。&#xA;如何絲滑的協助應用系統更新迭代 在快速變化的市場中，應用系統的快速更新迭代是企業保持競爭力的關鍵。 AIOP 利用先進的持續集成和持續部署（CI/CD）技術，幫助台灣公司實現應用系統的無縫更新。我們的專業團隊與開發團隊緊密合作， 確保每次更新都能快速、安全地部署到生產環境，並最小化對用戶的影響。通過自動化測試和回滾機制， 我們確保每次更新都能保持高質量和高可靠性，讓企業能夠快速響應市場需求，保持業務的持續增長。&#xA;» 聯繫我們 </description>
+      <guid>https://aiop.one/about/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
