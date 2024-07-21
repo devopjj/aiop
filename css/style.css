@@ -13007,33 +13007,12 @@ html {
 :root {
   font-size: 1.114em; }
 
-h1, .h1 {
-  font-size: 2.6rem; }
-
-h2, .h2 {
-  font-size: 2.2rem; }
-
-h3, .h3 {
-  font-size: 1.56rem; }
-
-h4, .h4 {
-  font-size: 1.4rem; }
-
-h5, .h5 {
-  font-size: 1.2rem; }
-
-h6, .h6 {
-  font-size: 1.14rem; }
-
 .main-menu > ul > li {
   font-size: 1.232rem; }
 
 @media (max-width: 767px) {
   .pconly-bg {
     background-image: none !important; } }
-
-.hero-image .hero-text p {
-  line-height: 2.45rem; }
 
 ol {
   list-style: number; }
@@ -13056,5 +13035,30 @@ ol {
   padding-left: 30px; }
   .service-list p {
     font-size: 0.87rem; }
+
+h1, .h1 {
+  font-size: 2rem; }
+
+h2, .h2 {
+  font-size: 1.6rem; }
+
+h3, .h3 {
+  font-size: 1.56rem; }
+
+h4, .h4 {
+  font-size: 1.4rem; }
+
+h5, .h5 {
+  font-size: 1.2rem; }
+
+h6, .h6 {
+  font-size: 1.14rem; }
+
+.hero-image .hero-text h1, .hero-image .hero-text .h1 {
+  font-size: 2.1rem; }
+
+.hero-image .hero-text p {
+  font-size: 1.114em;
+  line-height: 1.9rem; }
 
 /*# sourceMappingURL=style.css.map */
