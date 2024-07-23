@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>歡迎您的諮詢 on AI OP-專業的運維服務</title>
-    <link>http://10.11.11.20:1313/contact/</link>
+    <link>https://aiop.one/contact/</link>
     <description>Recent content in 歡迎您的諮詢 on AI OP-專業的運維服務</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://10.11.11.20:1313/contact/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://aiop.one/contact/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on AI OP-專業的運維服務</title>
-    <link>http://10.11.11.20:1313/pages/</link>
+    <link>https://aiop.one/pages/</link>
     <description>Recent content in Pages on AI OP-專業的運維服務</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Dec 2018 09:29:16 +1000</lastBuildDate>
-    <atom:link href="http://10.11.11.20:1313/pages/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://aiop.one/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://10.11.11.20:1313/about.0720/</link>
+      <link>https://aiop.one/about.0720/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
-      <guid>http://10.11.11.20:1313/about.0720/</guid>
+      <guid>https://aiop.one/about.0720/</guid>
       <description></description>
     </item>
     <item>
       <title>Work</title>
-      <link>http://10.11.11.20:1313/about/</link>
+      <link>https://aiop.one/about/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
-      <guid>http://10.11.11.20:1313/about/</guid>
+      <guid>https://aiop.one/about/</guid>
       <description></description>
     </item>
   </channel>
